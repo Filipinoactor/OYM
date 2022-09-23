@@ -1,5 +1,5 @@
 {
-    "name": "administrator/oym-actor",
+    "name": "actor_oym/oym-actor",
     "description": "石头剪子布",
     "type": "library",
     "require": {
