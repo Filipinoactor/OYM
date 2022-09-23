@@ -3,7 +3,7 @@
     "description": "石头剪子布",
     "type": "library",
     "require": {
-        "Actor/OYM": "dev-main" "Actor/OYM" "dev-main"
+        
     },
     "license": "MIT",
     "authors": [
