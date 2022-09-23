@@ -1,0 +1,16 @@
+{
+    "name": "administrator/oym-actor",
+    "description": "石头剪子布",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "actor",
+            "email": "wangshulong1013@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
